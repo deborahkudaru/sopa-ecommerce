@@ -1,0 +1,35 @@
+#explore{
+  margin: 0 7%;
+}
+
+.card{
+  width: 200%;
+  background-color: #F2F2F2;
+  border-radius: 16px;
+}
+
+img{
+  width: 100%;
+  border-radius: 16px;
+}
+
+.card-flex{
+  display: flex;
+  gap: 15px;
+  
+}
+
+.model{
+  color: #02021D;
+  margin-top: 50px;
+}
+
+/* .price{
+  color: #75869C;
+  position: relative;
+  left: 300px;
+} */
+
+.color{
+  color: #75869C;
+}

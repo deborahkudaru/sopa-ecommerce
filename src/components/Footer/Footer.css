@@ -1,0 +1,36 @@
+#footer {
+  background-color: #02021d;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  padding: 5% 0;
+}
+
+.sopa-info {
+  width: 65%;
+  margin-top: 50px;
+}
+
+.sopo-logo-div{
+  margin-left: 30px;
+}
+
+.sopa-email-button {
+  background-color: #02021d;
+  padding: 12px 24px;
+  color: white;
+  border-radius: 32px;
+  border: 1px solid var(--secondary-colors-white, #fff);
+}
+
+
+li{
+  list-style-type: none;
+  margin-top: 20px;
+  position: relative;
+  right: 39px;
+}
+
+.footer-items{
+  margin-right: 30px;
+}

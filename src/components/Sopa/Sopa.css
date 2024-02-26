@@ -1,0 +1,30 @@
+#sopa{
+  margin: 0 7%;
+}
+
+.our-story-flex{
+  display: flex;
+}
+
+.our-story-sopa{
+  background-color: #02021D;
+  color: white;
+}
+
+.sopa-button{
+  padding: 17px 24px;
+}
+
+.sopa-in-everyday{
+  text-align: center;
+}
+
+.sopa-img-flex{
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+
+.sopa-images-4{
+  width: 20%;
+}
